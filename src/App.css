@@ -1,0 +1,16 @@
+.formc{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  
+}
+input,select{
+  margin:4px 0;
+  padding:3px;
+  border:1px solid black;
+  border-radius:5px;
+}
+input:hover{
+  box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.94);
+}
+
